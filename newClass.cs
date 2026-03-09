@@ -11,4 +11,7 @@ namespace first3
         public string Name { get; private set; }
         
     }
+        
+    public void DoSomething();
+    
 }
